@@ -1,4 +1,4 @@
-## flutter_ecommerce_app by benjamin
+## flutter_ecommerce_app by benjaminbaiden
 
 E-Commerce app is a design implementaion of [E-commerce App](https://dribbble.com/shots/10446127-E-commerce-App-Exploration/attachments/2283107?mode=media) designed by [Imran](https://dribbble.com/Saif_Uddin_Imran)
 
